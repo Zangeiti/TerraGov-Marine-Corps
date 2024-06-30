@@ -368,3 +368,18 @@
   - balance: Widow Primo now includes the sow ability
   - balance: The impact AoE damage of pyrogen's fireball will now inflict 2 stacks
       of melting fire on hit.
+2024-06-30:
+  Lumipharon:
+  - balance: rebalanced C4 and Dev explosions now seriously damage tanks
+  - balance: Added AP and cannister shells to tank
+  - balance: Tank weapons are better at bypassing cover, especially at close range
+  - balance: Added a stronger HE round for HvH
+  - balance: Tank shells no longer target turf
+  - balance: Tank move delay reduced to 0.75 seconds from 0.9 seconds
+  - balance: Tank windup/failure to fire does not apply full CD any more
+  - balance: tank windup is not interrupted by movement
+  - code_imp: Cleaned up some directional burst projectile code
+  RipGrayson:
+  - rscadd: Added a new map, LV759
+  - imageadd: Added a ton of urban icons done by zenith_zero
+  - imageadd: Added a number of new windows and frames, partially done by me.
